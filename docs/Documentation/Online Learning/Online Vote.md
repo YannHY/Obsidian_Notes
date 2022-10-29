@@ -1,0 +1,8 @@
+- [Google Forms](https://docs.google.com/forms/) (Settings > Responses > Limit to 1 response)
+- [Doodle](https://doodle.com/fr/) (Limiter les participants à un seul vote + Sondage caché)
+- [ElectionRunner](https://electionrunner.com)
+- [SurveyMonkey](https://fr.surveymonkey.com/) (up to 20 voters)
+- [Choice Voting](https://www.choicevoting.co.uk) (up to 20 voters)
+- [Vox vote](https://www.voxvote.com)
+- [pollunite](https://pollunit.com/en)
+- [Polling the Classroom: 4 Free Polling Tools to Keep Students Engaged](https://oedb.org/ilibrarian/polling-classroom-4-free-polling-tools-keep-students-engaged/)
