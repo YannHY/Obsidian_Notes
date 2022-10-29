@@ -11,14 +11,16 @@ Le [[Pourquoi écrire en Markdown | Markdown]] permet une publication facile :�
 ## La rage de l'expression
 De fait, j'espère pouvoir faire passer dans ces pages un peu de la vitalité propre à toute activité fomentant projets et publications.
 
-Vous y trouverez (presque) tout ce que je note, commente, conserve, archive pour espérer retrouver ce que je crains de ne pouvoir mémoriser [^1].
+Vous y trouverez (presque) tout ce que je note, commente, questionne, conserve, archive pour espérer retrouver ce que je crains de ne pouvoir mémoriser [^1].
+
+On y trouvera aussi moult tutoriels, supports de mes formations, ou encore les cours [[Documentation/HTML-CSS/Cours HTML CSS JS/Index | d'introduction au HTML, CSS et JavaScript]] que j'ai écrits pour mes élèves.
 
 Ces pages ont aussi pour objectif de réunir ce qui était auparavant dispersé : le [blog de Ralentir travaux](https://www.ralentirtravaux.com/le_blog/), mon [GitHub](https://github.com/YannHY), mon [1er compte Medium](https://medium.com/@yannhoury) et le [second](https://yannhoury-10079.medium.com), mon essai [Un Centaure à l'école](https://www.amazon.fr/centaure-l%C3%A9cole-Comment-num%C3%A9rique-professeur-ebook/dp/B01GAC4D8Q), mon embryon de [wiki](https://www.ralentirtravaux.com/w/index.php?title=Accueil), etc. 
 
 J'ai pour l'instant publié deux parties :
 
-- Documentation (ce sont toutes les notes que je prends et mets à jour pratiquement quotidiennement)
-- Écriture (rassemblant les [[Documentation TOC | tutoriels]] que j'écris dans le cadre de mon travail, mais aussi ce que j'ai auparavant publié ici ou là). On y trouvera notamment les cours [[Documentation/HTML-CSS/Cours HTML CSS JS/Index | d'introduction au HTML, CSS et JavaScript]].
+- Documentation (ce sont toutes les notes que je prends et mets à jour pratiquement quotidiennement, y compris des tutoriels)
+- Écriture (rassemblant ce que j'ai auparavant publié ici ou là).
 
 ## Contact
 Si vous souhaitez me contacter ou en apprendre davantage sur mes activités :
