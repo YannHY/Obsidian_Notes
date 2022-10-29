@@ -1,0 +1,39 @@
+
+## B.F Skinner. Teaching machine and programmed learning
+B.F. Skinner, professor of psychology at Havard University
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTH3ob1IRFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Otter's Transcription 
+All these young people are studying ==in a new way== in spelling. It might as well be algebra or grammar or in fact anything involving the use of words or symbols. The student is using a teaching machine, a device which creates ==vastly improved conditions for effective study==. What are teaching machines? How are they used? What can they teach? who prepares the material they teach? And how does this material differ from textbooks, lectures and educational television? What impact will machine teaching have on school organizations? Some of these questions can be answered in at least a preliminary way.
+
+I am B.F. Skinner professor of psychology at Harvard University. I would like to discuss some of the reasons why studying with the help of a teaching machine is ==often dramatically effective==. With the machine you have just seen in use, the student sees a bit of text or other printed material in a window. This may be a sentence or two or an equation in arithmetic. Some small part is missing, and the student must supply it by writing on exposed strip of paper. His response may be the answer to a question or the solution of a problem. But generally it is simply a symbol or Word, which completes the material that you just read. As soon as the student has written his response, he operates the machine and ==learns immediately== whether he is right or wrong. This is a ==great improvement== over the system in which papers are corrected by a teacher where the student must wait perhaps still another day to learn whether or not what he has written is right. Such immediate knowledge has two principal effects. ==It aids most rapidly to the formation of correct behaviour. The student quickly learns to be right. But there is also a motivating effect. The student is free of uncertainty or anxiety about his success or failure. His work is pleasurable==. He does not have to force himself to study. A classroom in which machines are being used, and usually the scene of intense concentration. One function of a teaching machine learners [??? ] to give the student a quick report and the adequacy of his response. This is important not only for efficient learning to generate a high level of interest, and enthusiasm.
+
+==Another important advantage is that the student is free to move at his own pace==. With techniques in which a whole class is forced to move forward together, the bright student wastes time wasting by waiting for others to catch up. And the slow student will may not be in theory or in any other respect is forced to go too fast. Not quite completing one day's assignment is even less likely to complete a second and he gets farther and farther behind and often gives up altogether unless remedial steps are taken. A student who is learning by machine moves at the rate which is most effective for him. The fast student covers a course in a short time, but the slowest student by giving more time to the subject can cover the same ground. Both learn the material thoroughly.
+
+==The third feature of machine teaching is that each student follows a carefully constructed programme, leading from the initial stage where he is only unfamiliar with a subject to a final stage in which he is competent==. He does this by taking a large number of very small steps arranged in a coherent order. Each step is so small that he is almost certain to take it correctly. The material is designed to give the student as much help as possible, without in any sense being tested. Instead, helpful hints suggestions and prompt maximise the chances that he will be right. The fact that each step is very small is important. Even though it may not seem like much of an accomplishment, it is always progress in the right direction. Programmes have been constructed and which without any prior study, the average student is right 95% of the time. ==This plays out is partly due to the fact that the student only moves on when he has completely mastered all the preceding material. If he is absent, he does not miss any work, because he takes up where he left off upon returning to the machine==. A conservative estimate seems to be that with these machines, the average grade or high school students can cover about twice as much material but the same amount of time and effort as with traditional classroom techniques. There is no magic about this. ==A teaching machine is simply a convenient way of bringing the student into contact with a man who writes the programme. It is the author of the programme, not the machines who teaches, he stands in the same position as a textbook writer, except that he is much closer to the student. He and the student are constantly interacting==. This interaction can be mediated in different ways of course, and each way means a different kind of teaching machine, each having special features and advantages. 
+
+Vidéo incomplète. Voir celle-ci [^1] :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFYruzWeFwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## B. F. Skinner's Invention Of The Teaching Machine
+Quelqu'un s'est amusé à combiner la vidéo de Skimmer avec une classe d'élèves travaillant sur iPad.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GAtKRrWbghA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Audrey Watters about Skinner
+> A behaviorist, Skinner believed that teaching machines could provide an ideal mechanism for operant conditioning. “There is no reason why the schoolroom should be any less mechanized than, for example, the kitchen,” he argued.
+> Skinner believed that immediate, positive reinforcement was key to shaping behavior. All human actions could be analyzed this way. Skinner contended that, despite their important role in helping to shape student behavior, “the simple fact is that, as a mere reinforcing mechanism, the teacher is out of date.”
+> Skinner’s teaching machine might look terribly out-of-date, but I’d argue that this is the history that still shapes so much of what we see today. Self-paced learning, gamification, an emphasis on real-time or near-real-time corrections. No doubt, ed-tech today draws quite heavily on Skinner’s ideas because Skinner (and his fellow education psychologist Edward Thorndike) has been so influential in how we view teaching and learning and how we view schooling.
+> So much B. F. Skinner. So little Seymour Papert. So little Alan Kay.
+> I'd argue too that this isn’t just about education technology. There’s so much Skinner and so little Kay in “mainstream” technology too. Think Zynga, for example. Click, click, click. Level up! Rewards! Achievement unlocked!
+> *The Monsters of Education Technology*
+
+## Sur le behaviorism
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpDmRc8-pyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1_3yOnFfss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[^1]: Je n'ai vu que les dix premières minutes. Regarder la suite.
