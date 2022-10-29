@@ -1,0 +1,209 @@
+- [[Présentation de l’iphone en vidéo]]
+- [[Enseignement et vérité d’état]]
+- [[Internet explorer 8]]
+- [[Le misérable]]
+- [[Les chanteuses]]
+- [[Au diable les filtres]]
+- [[Comment intégrer des exercices du type HotPotatoes dans iBooks Author]]
+- [[L’obsolescence programmée ? N’importe quoi !]]
+- [[Internet tel que je l’utilise]]
+- [[L'univers impitoyable du commentaire]]
+- [[De 1986 à 2016, histoire d’un sujet de brevet]]
+- [[Le manuel est mort. Vive le manuel !]]
+- [[Le niveau a baissé]]
+- [[Le numérique à l'école, qu'est-ce que c'est ?]]
+- [[Le Store perdu]]
+- [[Qu’est-ce que lire au XXIe siècle ?]]
+- [[Nouveau ravalement de façade]]
+- [[Orange Ô désespoir ou l’incroyable histoire de mon abonnement internet]]
+- [[Le manuel de quatrième n’est plus sur le store d’Apple]]
+- [[Ravalement de façade pour Ralentir travaux]]
+- [[SCONET]]
+- [[Un iPad au collège]]
+- [[Unchain my site]]
+- [[L’anaphore, Hollande et le petit]]
+- [[Le babil]]
+- [[Bonnes vacances]]
+- [[Où l’on voit qu’il faut célébrer Céline]]
+- [[Qui fera la part du feu ?]]
+- [[Collaborer]]
+- [[Comment j’ai nourri le web]]
+- [[Copied]]
+- [[La dictée encore et toujours, oui mais…]]
+- [[Il faut connaître l’entreprise dès le lycée. Vraiment ?]]
+- [[Éducation à l'image]]
+- [[Fête punitive]]
+- [[Il doit y avoir des hackers littéraires]]
+- [[Inquiétude]]
+- [[Le cahier de textes numérique]]
+- [[En découvrant l’IREF, stupeur]]
+- [[L'enseignant est-il de droite ?]]
+- [[La culture, c’est ce qui reste...]]
+- [[L’obscur objet de la dictée]]
+- [[La faute à ma sœur]]
+- [[Blâme et éloge de la mouche]]
+- [[La rhétorique au collège]]
+- [[Le Cimetière de Prague]]
+- [[Le président]]
+- [[Le redoublement]]
+- [[Les mots préférés de Jean-François Parot]]
+- [[Petite analyse du zombie]]
+- [[Lire ou ne pas lire Guy Môquet ?]]
+- [[Les enseignants et la prime au mérite]]
+- [[Un petit jeu sous les auspices de Pierre Fontanier]]
+- [[Lettre ouverte à un lycéen (qui n’a pas la maturité pour être éduqué au numérique)]]
+- [[Liste de lecture pour un collégien]]
+- [[Logiciels libres et logiciels payants]]
+- [[Mais comment évaluer cette dictée ?]]
+- [[Le manuel de 5e est publié]]
+- [[Nouveau chapitre]]
+- [[On]]
+- [[Parents et enseignants]]
+- [[Parodie]]
+- [[Pour un manuel numérique]]
+- [[Écriture/Blog/Pourquoi lire avec Amazon ?]]
+- [[Publication du chapitre 2]]
+- [[Publication du premier chapitre]]
+- [[Ralentir travaux (non publié)]]
+- [[Sauvegarde qui peut]]
+- [[Si j'essayais la classe inversée]]
+- [[Te iPodum laudamus]]
+- [[Écriture/Blog/Télécharger une vidéo (sur YouTube, Vimeo, Dailymotion, etc.)]]
+- [[Le structuralisme coupable ?]]
+- [[Un manuel pour iPad, explications en vidéo]]
+
+## Ralentir travaux (blog) 
+- [Wayback Machine](https://web.archive.org/web/20080601000000*/https://www.ralentirtravaux.com/le_blog/) (certains articles ont été effacés par erreur. On peut néamoins les lire ici) -> [Article sur le centre Tjibaou](https://web.archive.org/web/20081118174118/https://www.ralentirtravaux.com/le_blog/)
+- [Présentation de l’iphone en vidéo](https://www.ralentirtravaux.com/le_blog/presentation-de-liphone-en-video/)
+- [Enseignement et vérité d’état](https://www.ralentirtravaux.com/le_blog/enseignement-et-verite-detat/)
+- [Internet explorer 8](https://www.ralentirtravaux.com/le_blog/internet-explorer-8/)
+- [Le misérable](https://www.ralentirtravaux.com/le_blog/le-miserable/)
+- [Les chanteuses](https://www.ralentirtravaux.com/le_blog/les-chanteuses/)
+- [Fredo Viola](https://www.ralentirtravaux.com/le_blog/fredo-viola/)
+- [Les artistes de gauche à droite](https://www.ralentirtravaux.com/le_blog/les-artistes-de-gauche-a-droite/)
+- [The hunt for Gollum](https://www.ralentirtravaux.com/le_blog/the-hunt-for-gollum/)
+- [La journée de la jupe](https://www.ralentirtravaux.com/le_blog/la-journee-de-la-jupe/)
+- [Les peintres préraphaélites](https://www.ralentirtravaux.com/le_blog/les-peintres-preraphaelites/)
+- [Marche arrière toute](https://www.ralentirtravaux.com/le_blog/marche-arriere-toute/)
+- [En lisant Le Château](https://www.ralentirtravaux.com/le_blog/en-lisant-le-chateau/)
+- [Après Facebook, Twitter](https://www.ralentirtravaux.com/le_blog/apres-facebook-twitter/)
+- [Anna et son journal](https://www.ralentirtravaux.com/le_blog/anna-et-son-journal/)
+- [Kassovitz à Ouvéa](https://www.ralentirtravaux.com/le_blog/kassovitz-a-ouvea/)
+- [La fête punitive](https://www.ralentirtravaux.com/le_blog/la-fete-punitive/)
+- [La forteresse avec des doigts](https://www.ralentirtravaux.com/le_blog/la-forteresse-avec-des-doigts/)
+- [Lire ou ne pas lire Guy Môquet ?](https://www.ralentirtravaux.com/le_blog/1051/)
+- [Parents et enseignants](https://www.ralentirtravaux.com/le_blog/parents-et-enseignants/)
+- [Hommage de Dumas](https://www.ralentirtravaux.com/le_blog/hommage-de-dumas/)
+- [Des places pour l’OM](https://www.ralentirtravaux.com/le_blog/des-places-pour-lom/)
+- [Qui veut gagner des euros ?](https://www.ralentirtravaux.com/le_blog/qui-veut-gagner-des-euros/)
+- [Apprendre, oui mais comment ?](https://www.ralentirtravaux.com/le_blog/1018/)
+- [Le babil](https://www.ralentirtravaux.com/le_blog/le-babil/)
+- [Napi](https://www.ralentirtravaux.com/le_blog/napus/)
+- [Les mots préférés de Jean-François Parot](https://www.ralentirtravaux.com/le_blog/les-mots-preferes-de-jean-francois-parot/)
+- [Te iPodum laudamus](https://www.ralentirtravaux.com/le_blog/te-ipodum-laudamus/)
+- [Sauvegarde qui peut](https://www.ralentirtravaux.com/le_blog/sauvegarde-qui-peut/)
+- [On](https://www.ralentirtravaux.com/le_blog/on/)
+- [Le président](https://www.ralentirtravaux.com/le_blog/le-president/)
+- [Le structuralisme coupable ?](https://www.ralentirtravaux.com/le_blog/le-structuralisme-coupable/)
+- [Des vidéos sur Vimeo](https://www.ralentirtravaux.com/le_blog/des-videos-sur-vimeo/)
+- [Il faut connaître l’entreprise dès le lycée. Vraiment ?](https://www.ralentirtravaux.com/le_blog/il-faut-connaitre-l%E2%80%99entreprise-des-le-lycee-vraiment/)
+- [En découvrant l’IREF, stupeur…](https://www.ralentirtravaux.com/le_blog/en-decouvrant-liref-stupeur/)
+- [San Francisco](https://www.ralentirtravaux.com/le_blog/san-francisco/)
+- [Le redoublement](https://www.ralentirtravaux.com/le_blog/le-redoublement/)
+- [Le cahier de textes numérique](https://www.ralentirtravaux.com/le_blog/1205/)
+- [Les enseignants et la prime au mérite](https://www.ralentirtravaux.com/le_blog/les-enseignants-et-la-prime-au-merite/)
+- [Qui fera la part du feu ?](https://www.ralentirtravaux.com/le_blog/qui-fera-la-part-du-feu/)
+- [Où l’on voit qu’il faut célébrer Céline](https://www.ralentirtravaux.com/le_blog/ou-lon-voit-quil-faut-celebrer-celine/)
+- [Le Cimetière de Prague](https://www.ralentirtravaux.com/le_blog/le-cimetiere-de-prague/)
+- [Internet tel que je l’utilise](https://www.ralentirtravaux.com/le_blog/internet-comme-je-le-concois/)
+- [On dit «la voiture à ma sœur» ou «la voiture de ma sœur » ?](https://www.ralentirtravaux.com/le_blog/on-dit-%C2%ABla-voiture-a-ma-soeur%C2%BB-ou-%C2%ABla-voiture-de-ma-soeur-%C2%BB/)
+- [Blâme et éloge de la mouche](https://www.ralentirtravaux.com/le_blog/blame-et-eloge-de-la-mouche/)
+- [Logiciels payants et logiciels libres](https://www.ralentirtravaux.com/le_blog/logiciel-payant-et-logiciel-libre/)
+- [Orange Ô désespoir ou l’incroyable histoire de mon abonnement internet](https://www.ralentirtravaux.com/le_blog/orange-o-desespoir-ou-l%E2%80%99incroyable-histoire-de-mon-abonnement-internet/)
+- [Liste de lecture pour un collégien](https://www.ralentirtravaux.com/le_blog/liste-de-lecture-pour-un-collegien/)
+- [Lettre ouverte à un lycéen (qui n’a pas la maturité pour être éduqué au numérique)](https://www.ralentirtravaux.com/le_blog/lettre-ouverte-a-un-lyceen-qui-na-pas-la-maturite-pour-etre-eduque-au-numerique/)
+- [Si les lycéens n’ont pas la maturité pour être éduqués au numérique, les collégiens l’ont](https://www.ralentirtravaux.com/le_blog/si-les-lyceens-nont-pas-la-maturite-pour-etre-eduquer-au-numerique-les-collegiens-lont/)
+- [Pour en finir avec le pourrisseur du web](https://www.ralentirtravaux.com/le_blog/pour-en-finir-avec-le-pourrisseur-du-web/)
+- [Comment j’ai nourri le web](https://www.ralentirtravaux.com/le_blog/comment-jai-nourri-le-web/)
+- [La culture, c’est ce qui reste…](https://www.ralentirtravaux.com/le_blog/la-culture-cest-ce-qui-reste/)
+- [Ravalement de façade pour Ralentir travaux](https://www.ralentirtravaux.com/le_blog/ravalement-de-facade-pour-ralentir-travaux/)
+- [Le jeu des figures (fin)](https://www.ralentirtravaux.com/le_blog/le-jeu-des-figures-fin/)
+- [L’anaphore, Hollande et le petit](https://www.ralentirtravaux.com/le_blog/lanaphore-hollande-et-le-petit/)
+- [Le jeu des figures (épisode 6)](https://www.ralentirtravaux.com/le_blog/le-jeu-des-figures-episode-6-2/)
+- [Le jeu des figures (épisode 5)](https://www.ralentirtravaux.com/le_blog/le-jeu-des-figures-episode-6/)
+- [De 1986 à 2016, histoire d’un sujet de brevet](https://www.ralentirtravaux.com/le_blog/de-1986-a-2012-histoire-dun-sujet-de-brevet/)
+- [La rhétorique au collège](https://www.ralentirtravaux.com/le_blog/la-rhetorique-au-college/)
+- [L’enseignant est-il de droite ?](https://www.ralentirtravaux.com/le_blog/lenseignant-est-il-de-droite/)
+- [Un manuel de français libre et gratuit pour iPad](https://www.ralentirtravaux.com/le_blog/un-manuel-libre-et-gratuit-pour-ipad/)
+- [Le manuel, ça s’en va et ça revient](https://www.ralentirtravaux.com/le_blog/le-manuel-ca-sen-va-et-ca-revient/)
+- [Le Store perdu](https://www.ralentirtravaux.com/le_blog/le-store-perdu/)
+- [Le manuel de quatrième n’est plus sur le store d’Apple](https://www.ralentirtravaux.com/le_blog/le-manuel-de-quatrieme-nest-plus-sur-le-store-dapple/)
+- [Pour un manuel numérique](https://www.ralentirtravaux.com/le_blog/pour-un-manuel-numerique/)
+- [50 nouveautés dans le Manuel de quatrième](https://www.ralentirtravaux.com/le_blog/50-nouveautes-dans-le-manuel-de-quatrieme/)
+- [Le manuel est mort. Vive le manuel !](https://www.ralentirtravaux.com/le_blog/le-manuel-est-mort-vive-le-manuel/)
+- [Un manuel pour iPad, explications en vidéo](https://www.ralentirtravaux.com/le_blog/un-manuel-pour-ipad-explications-en-video/)
+- [Il doit bien y avoir des hackers chez les littéraires](https://www.ralentirtravaux.com/le_blog/il-doit-bien-y-avoir-des-hackers-chez-les-litteraires/)
+- [Si j’essayais la classe inversée ?](https://www.ralentirtravaux.com/le_blog/si-jessayais-la-classe-inversee/)
+- [Comment intégrer des exercices du type HotPotatoes dans iBooks Author](https://www.ralentirtravaux.com/le_blog/comment-integrer-des-exercices-du-type-hotpotatoes-dans-ibooks-author/)
+- [Publication du premier chapitre du manuel de sixième](https://www.ralentirtravaux.com/le_blog/publication-du-premier-chapitre-du-manuel-de-sixieme/)
+- [Comment importer une vidéo YouTube, DailyMotion, etc. dans iBooks Author ?](https://www.ralentirtravaux.com/le_blog/comment-importer-une-video-youtube-dailymotion-etc-dans-ibooks-author/)
+- [Publication du chapitre II La Genèse (sixième)](https://www.ralentirtravaux.com/le_blog/publication-du-chapitre-ii-la-genese-sixieme/)
+- [L’univers impitoyable du commentaire](https://www.ralentirtravaux.com/le_blog/lunivers-impitoyable-du-commentaire/)
+- [Nouveau ravalement de façade](https://www.ralentirtravaux.com/le_blog/nouveau-ravalement-de-facade/)
+- [Petite analyse du zombie](https://www.ralentirtravaux.com/le_blog/petite-analyse-du-zombie/)
+- [Bonnes vacances](https://www.ralentirtravaux.com/le_blog/bonnes-vacances/)
+- [L’obsolescence programmée ? N’importe quoi !](https://www.ralentirtravaux.com/le_blog/lobsolescence-programmee-nimporte-quoi/)
+- [Unchain my site](https://www.ralentirtravaux.com/le_blog/unchain-my-site/)
+- [Coder ? Mais pour quoi faire ?](https://www.ralentirtravaux.com/le_blog/coder-mais-pourquoi-faire/)
+- [L’absence de vie privée est un mensonge, même sur internet.](https://www.ralentirtravaux.com/le_blog/labsence-de-vie-privee-est-un-mensonge-meme-sur-internet/)
+- [Le manuel de 5e est publié !](https://www.ralentirtravaux.com/le_blog/le-manuel-de-5e-est-publie/)
+- [L’enseignant, l’enfant et la hiérarchie](https://www.ralentirtravaux.com/le_blog/lenseignant-lenfant-et-la-hierarchie/)
+- [Premier ePub](https://www.ralentirtravaux.com/le_blog/premier-epub/)
+- [Ces pédagogos qui ont assassiné l’École](https://www.ralentirtravaux.com/le_blog/ces-pedagogos-qui-ont-assassine-lecole/)
+- [La dictée encore et toujours, oui mais…](https://www.ralentirtravaux.com/le_blog/2618/)
+- [Le manuel de 6e partout](https://www.ralentirtravaux.com/le_blog/le-manuel-de-6e-partout/)
+- [Créer un widget HTML pour iBooks Author avec Hype](https://www.ralentirtravaux.com/le_blog/creer-un-widget-html-pour-ibooks-author-avec-hype/)
+- [Pourquoi un ePub ?](https://www.ralentirtravaux.com/le_blog/pourquoi-un-epub/)
+- [L’addiction aux smartphones, ce marronnier](https://www.ralentirtravaux.com/le_blog/laddiction-aux-smartphones/)
+- [Dialogue sur le numérique à l’école](https://www.ralentirtravaux.com/le_blog/dialogue-sur-le-numerique-a-lecole/)
+- [Comment faire travailler votre enfant pendant les vacances ?](https://www.ralentirtravaux.com/le_blog/comment-faire-travailler-votre-enfant-pendant-les-vacances/)
+- [Prélevez les empreintes digitales de vos élèves.](https://www.ralentirtravaux.com/le_blog/prelevez-les-empreintes-digitales-de-vos-eleves/)
+- [Ralentir travaux sur iTunes U](https://www.ralentirtravaux.com/le_blog/ralentir-travaux-sur-itunes-u/)
+- [Timehop et IFTTT, deux apps vraiment chouettes](https://www.ralentirtravaux.com/le_blog/timehop-et-ifttt-deux-apps-vraiment-chouettes/)
+- [Le français, cette langue étrangère](https://www.ralentirtravaux.com/le_blog/le-francais-cette-langue-etrangere/)
+- [Faire une dictée par jour qui passionne les élèves](https://www.ralentirtravaux.com/le_blog/2758/)
+- [Comment (et encore pourquoi) mettre ses cours en ligne en 2 minutes ?](https://www.ralentirtravaux.com/le_blog/comment-mettre-ses-cours-en-ligne-en-2-minutes/)
+- [Pourquoi il faut mettre ses cours en ligne](https://www.ralentirtravaux.com/le_blog/pourquoi-il-faut-mettre-ses-cours-en-ligne/)
+- [Rédiger un conte en s’en remettant au hasard](https://www.ralentirtravaux.com/le_blog/rediger-un-conte-en-sen-remettant-au-hasard/)
+- [Je ne publierai plus chez toi (lettre ouverte à Apple)](https://www.ralentirtravaux.com/le_blog/je-ne-publierai-plus-chez-toi-lettre-ouverte-a-apple/)
+- [La guerre du faux : apprenez à vous méfier des images](https://www.ralentirtravaux.com/le_blog/2871/)
+- [L’enseignant et le terroriste](https://www.ralentirtravaux.com/le_blog/lenseignant-et-le-terroriste/)
+- [Workflow (et Clips) pour les enseignants](https://www.ralentirtravaux.com/le_blog/workflow-et-clips-pour-les-enseignants/)
+- [Plickers, Wordsalad, Voice et la grammaire](https://www.ralentirtravaux.com/le_blog/plickers-wordsalad-voice-et-la-grammaire/)
+- [Le manuel de 6e sur Google Play Livres](https://www.ralentirtravaux.com/le_blog/le-manuel-de-6e-sur-google-play-livres/)
+- [Mes 100 apps favorites pour iPad et iPhone](https://www.ralentirtravaux.com/le_blog/mes-100-apps-favorites-pour-ipad-et-iphone/)
+- [Corriger des copies numériques](https://www.ralentirtravaux.com/le_blog/corriger-des-copies-numeriques/)
+- [Chromecast, un petit rien qui peut accompagner de grandes choses](https://www.ralentirtravaux.com/le_blog/chromecast-un-petit-rien-qui-peut-accompagner-de-grandes-choses/) [Noylan92](https://twitter.com/noylan92)
+- [Créer des fiches de lecture multimédias avec Aurasma](https://www.ralentirtravaux.com/le_blog/creer-des-fiches-de-lecture-multimedias-avec-aurasma/)
+- [Et si les enseignants utilisaient le Markdown ?](https://www.ralentirtravaux.com/le_blog/ecrire-un-article-en-markdown/)
+- [ChromeBook De la découverte à la passion](https://www.ralentirtravaux.com/le_blog/chromebook-de-la-decouverte-a-la-passion/) ([Noylan92](https://twitter.com/noylan92))
+- [Écrire des articles sur Star Wars pour Vikidia](https://www.ralentirtravaux.com/le_blog/ecrire-des-articles-sur-star-wars-pour-vikidia/)
+- [Umberto Eco et le livre indépassable](https://www.ralentirtravaux.com/le_blog/umberto-eco-et-le-livre-indepassable/)
+- [10 propositions pour le numérique à l’école](https://www.ralentirtravaux.com/le_blog/10-propositions-pour-le-numerique-a-lecole/)
+- [Non, le savoir n’est pas sur internet](https://www.ralentirtravaux.com/le_blog/non-le-savoir-nest-pas-sur-internet/)
+- [Des modes et autres obsessions pédagonumériques](https://www.ralentirtravaux.com/le_blog/des-modes-et-autres-obsessions-pedagonumeriques/)
+- [Qu’est-ce que lire au XXIe siècle ?](https://www.ralentirtravaux.com/le_blog/quest-ce-que-lire-au-xxie-siecle/)
+- [Une écriture collaborative de bout en bout](https://www.ralentirtravaux.com/le_blog/une-ecriture-collaborative-de-bout-en-bout/)
+- [La tentation du hobbit](https://www.ralentirtravaux.com/le_blog/la-tentation-du-hobbit/)
+- [Lettre ouverte aux éditeurs](https://www.ralentirtravaux.com/le_blog/lettre-ouverte-aux-editeurs/)
+- [Ralentir travaux, bientôt 10 ans !](https://www.ralentirtravaux.com/le_blog/ralentir-travaux-bientot-10-ans/)
+- [Workflow](https://www.ralentirtravaux.com/le_blog/workflow/)
+- [Une correction des rédactions inspirée par Ken Robinson](https://www.ralentirtravaux.com/le_blog/une-correction-des-redactions-inspiree-par-ken-robinson/)
+- [Ralentir travaux fête ses 10 ans 🎂](https://www.ralentirtravaux.com/le_blog/ralentir-travaux-fete-ses-10-ans-%F0%9F%8E%82/)
+- [Cette année, la dictée en cache trois !](https://www.ralentirtravaux.com/le_blog/cette-annee-la-dictee-en-cache-trois/)
+- [Différencier l’enseignement : deux exemples](https://www.ralentirtravaux.com/le_blog/differencier-lenseignement-deux-exemples/)
+- [Le livre numérique est né au Moyen Âge](https://www.ralentirtravaux.com/le_blog/le-livre-numerique-est-ne-au-moyen-age/)
+- [Le livre numérique, l’histoire d’un naufrage](https://www.ralentirtravaux.com/le_blog/le-livre-numerique-lhistoire-dun-naufrage/)
+- [Comment différencier l’enseignement à partir d’un simple spreadsheet ?](https://www.ralentirtravaux.com/le_blog/comment-differencier-lenseignement-a-partir-dun-simple-spreadsheet/)
+- [Découvrez la puissance des applications de tableau blanc pour faire vos cours en présentiel, en distanciel ou en hybride](https://www.ralentirtravaux.com/le_blog/decouvrez-la-puissance-des-applications-de-tableau-blanc-pour-faire-vos-cours-en-presentiel-en-distanciel-ou-en-hybride/)
+- [Comment évaluer en ligne ?](https://www.ralentirtravaux.com/le_blog/comment-evaluer-en-ligne/)
