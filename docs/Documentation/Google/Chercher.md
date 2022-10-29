@@ -1,0 +1,1 @@
+[New ways we're helping you find high-quality information](https://blog.google/products/search/information-literacy/)
