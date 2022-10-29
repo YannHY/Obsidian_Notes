@@ -1,6 +1,6 @@
 # Accueil
 ## Bienvenue
-![[Yann.png | 400]]
+![[Yann.png | 200]]
 
 > Between the years 3500 BC and 3000 BC, some unknown Sumerian geniuses invented a system for storing and processing information outside their brains, one that was custom-built to handle large amounts of mathematical data. The Sumerians thereby released their social order from the limitations of the human brain, opening the way for the appearance of cities, kingdoms and empires. The data-processing system invented by the Sumerians is called ‘writing’.<br />
 > Yuval Noah Harari, *Sapiens: A Brief History of Humankind*
