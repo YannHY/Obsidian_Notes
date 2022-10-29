@@ -25,10 +25,10 @@ J'ai pour l'instant publié deux parties :
 ## Contact
 Si vous souhaitez me contacter ou en apprendre davantage sur mes activités :
 
-👤 [CV](https://yann-houry.netlify.app)
-✉️ [Mail](mailto:yannhoury@ralentirtravaux.com)
-💬 [Twitter](https://twitter.com/yannhoury)
-🧭 [Ralentir travaux](https://www.ralentirtravaux.com/)  
+👤 [CV](https://yann-houry.netlify.app)<br />
+✉️ [Mail](mailto:yannhoury@ralentirtravaux.com)<br />
+💬 [Twitter](https://twitter.com/yannhoury)<br />
+🧭 [Ralentir travaux](https://www.ralentirtravaux.com/)<br />
 📖 [Un Centaure à l’école](https://www.amazon.fr/centaure-l%C3%A9cole-Comment-num%C3%A9rique-professeur-ebook/dp/B01GAC4D8Q)  
 
 [^1]: Ne manquez pas de vous rendre sur les notes de [François Jourde](https://publish.obsidian.md/jourde/Site).
