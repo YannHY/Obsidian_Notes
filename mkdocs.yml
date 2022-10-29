@@ -1,17 +1,17 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Obsidian vers MkDocs # Nom du site <70 caractères, apparait dans l'onglet du navigateur
+site_name: Obsidian Notes # Nom du site <70 caractères, apparait dans l'onglet du navigateur
 site_url: https://ericecmorlaix.github.io/simple_template_obsidian_mkdocs/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
 site_description: Simple modèle de dépôt GitHub pour publier des notes d'Obsidian via MkDocs avec le thème Material
-site_author: "Eric MADEC"
+site_author: "Yann Houry"
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/simple_template_obsidian_mkdocs
-repo_name: 'simple_obsidian_mkdocs' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
+repo_url: https://github.com/YannHY/Obsidian_Notes
+repo_name: 'Obsidian_Notes' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 # edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
 # (edit => édition avec connexion | blob, tree => lecture anonyme)
