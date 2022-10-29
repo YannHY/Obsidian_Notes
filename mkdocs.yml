@@ -1,10 +1,10 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
 site_name: Obsidian Notes # Nom du site <70 caractères, apparait dans l'onglet du navigateur
-<<site_url: https://github.com/YannHY/Obsidian_Notes # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
+<<site_url: https://yannhy.github.io/Obsidian_Notes/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
 >>>>>>>+main
 ====
-site_url: https://ericecmorlaix.github.io/simple_template_obsidian_mkdocs/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
+site_url: https://github.com/YannHY/Obsidian_Notes # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
 >>>>>>> origin/main
 
 ### Configuration de métadonnées
