@@ -1,17 +1,32 @@
 # Accueil
+## Bienvenue
+![[Yann.png | 400]]
 
-Ce site est un exemple simple de publication sur le Web, avec MkDocs et le thème Material, de notes écrites dans Obsidian et hébergées sur GitHub.
-![[undraw_informed_decision_p2lh.svg]]
-## Degemer Mat !
+> Between the years 3500 BC and 3000 BC, some unknown Sumerian geniuses invented a system for storing and processing information outside their brains, one that was custom-built to handle large amounts of mathematical data. The Sumerians thereby released their social order from the limitations of the human brain, opening the way for the appearance of cities, kingdoms and empires. The data-processing system invented by the Sumerians is called ‘writing’.<br />
+> Yuval Noah Harari, *Sapiens: A Brief History of Humankind*
 
-Le texte en MarkDown de la page `index.md` du dossier `/docs` devient la page d'accueil en HTML que vous voyez ici.
+## De l'écriture à la publication
+Le [[Pourquoi écrire en Markdown | Markdown]] permet une publication facile : écrivez sur votre éditeur de texte favori & publiez. C'est ce que l'on peut faire avec [[Obsidian]]. Nul besoin d'application supplémentaire. Ni Wordpress ni éditeur de code. 
 
-Les dossiers présents dans `/docs` apparaissent comme sections principales de la barre de navigation. De même pour le titre de niveau 1 `# Accueil` écrit au début du fichier `index.md`.
+## La rage de l'expression
+De fait, j'espère pouvoir faire passer dans ces pages un peu de la vitalité propre à toute activité fomentant projets et publications.
 
-Chaque note, `fichier.md` écrit en MarkDown, devient une nouvelle page du site dans leur section respective. Le noms de ces fichiers sont visible dans la barre d'URL. Les titres et sous-titres de la table des matières apparaissent dans des sous-sections d'un menu secondaire.
+Vous y trouverez (presque) tout ce que je note, commente, conserve, archive pour espérer retrouver ce que je crains de ne pouvoir mémoriser [^1].
 
-> En l'absence de titre de niveau 1 au début d'une note, c'est le nom du fichier qui apparaitra en tête de la sous-section.
+Ces pages ont aussi pour objectif de réunir ce qui était auparavant dispersé : le [blog de Ralentir travaux](https://www.ralentirtravaux.com/le_blog/), mon [GitHub](https://github.com/YannHY), mon [1er compte Medium](https://medium.com/@yannhoury) et le [second](https://yannhoury-10079.medium.com), mon essai [Un Centaure à l'école](https://www.amazon.fr/centaure-l%C3%A9cole-Comment-num%C3%A9rique-professeur-ebook/dp/B01GAC4D8Q), mon embryon de [wiki](https://www.ralentirtravaux.com/w/index.php?title=Accueil), etc. 
 
-Il est donc préférable dans Obsidian d'attribuer aux dossiers et fichiers des noms significatifs, sans caractère accentué ni espace et, de même que pour les titres et sous-titres, le mieux est de les choisir courts. 
+J'ai pour l'instant publié deux parties :
 
-> Ce nommage automatique peut-être modifié en définissant manuellement la rubrique `nav` dans le fichier `mkdocs.yml`, ce qui devient cependant vite fastidieux...
+- Documentation (ce sont toutes les notes que je prends et mets à jour pratiquement quotidiennement)
+- Écriture (rassemblant les [[Documentation TOC | tutoriels]] que j'écris dans le cadre de mon travail, mais aussi ce que j'ai auparavant publié ici ou là). On y trouvera notamment les cours [[Documentation/HTML-CSS/Cours HTML CSS JS/Index | d'introduction au HTML, CSS et JavaScript]].
+
+## Contact
+Si vous souhaitez me contacter ou en apprendre davantage sur mes activités :
+
+👤 [CV](https://yann-houry.netlify.app)
+✉️ [Mail](mailto:yannhoury@ralentirtravaux.com)
+💬 [Twitter](https://twitter.com/yannhoury)
+🧭 [Ralentir travaux](https://www.ralentirtravaux.com/)  
+📖 [Un Centaure à l’école](https://www.amazon.fr/centaure-l%C3%A9cole-Comment-num%C3%A9rique-professeur-ebook/dp/B01GAC4D8Q)  
+
+[^1]: Ne manquez pas de vous rendre sur les notes de [François Jourde](https://publish.obsidian.md/jourde/Site).
