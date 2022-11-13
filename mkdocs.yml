@@ -134,17 +134,15 @@ copyright: >
 ### Configuration de liens sociaux https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links 
 extra:
   social: # A personaliser...
-    # - icon: fontawesome/solid/paper-plane
-    #   link: mailto:yannhoury@ralentirtravaux.com
-    #   name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
-    - icon: fontawesome/brands/github
+     - icon: fontawesome/solid/paper-plane
+      link: mailto:yannhoury@ralentirtravaux.com
+      name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
+     - icon: fontawesome/brands/github
       link: https://github.com/YannHY/test
       name: dépôt github
-    # - icon: fontawesome/solid/school
-    #   link: https://www.ralentirtravaux.com
-    #   name: Ralentir travaux
-
-  
+     - icon: fontawesome/solid/school
+      link: https://www.ralentirtravaux.com
+      name: Ralentir travaux
 
 
 # Configuration de javascripts complémentaires
